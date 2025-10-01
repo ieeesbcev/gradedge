@@ -1206,7 +1206,8 @@ html {
     }
     
     .hero-logo {
-        height: clamp(2rem, 10vw, 3.5rem);
+        height: 80px;
+        width: auto;
         margin-bottom: var(--spacing-sm);
     }
     
